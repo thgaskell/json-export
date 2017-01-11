@@ -1,0 +1,11 @@
+{
+  "name": "json-export",
+  "version": "0.0.1",
+  "description": "Converts an exported javascript object to JSON",
+  "keywords": ["javascript", "object", "json"],
+  "bin": {
+    "json-export": "bin/json-export.js"
+  },
+  "author": "Tony Gaskell <thgaskell@gmail.com>",
+  "license": "ISC"
+}
