@@ -1,6 +1,6 @@
 {
-  "name": "json-export",
-  "version": "0.0.1",
+  "name": "json-export-cli",
+  "version": "0.0.2",
   "description": "Converts an exported javascript object to JSON",
   "keywords": ["javascript", "object", "json"],
   "bin": {
