@@ -1,11 +1,16 @@
 {
   "name": "json-export-cli",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Converts an exported javascript object to JSON",
   "keywords": ["javascript", "object", "json"],
   "bin": {
     "json-export": "bin/json-export.js"
   },
   "author": "Tony Gaskell <thgaskell@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thgaskell/json-export.git"
+  },
+  "bugs" : "https://github.com/thgaskell/json-export/issues",
   "license": "ISC"
 }
