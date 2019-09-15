@@ -2,7 +2,11 @@
   "name": "json-export-cli",
   "version": "0.0.4",
   "description": "Converts an exported javascript object to JSON",
-  "keywords": ["javascript", "object", "json"],
+  "keywords": [
+    "javascript",
+    "object",
+    "json"
+  ],
   "bin": {
     "json-export": "bin/json-export.js"
   },
@@ -11,6 +15,11 @@
     "type": "git",
     "url": "https://github.com/thgaskell/json-export.git"
   },
-  "bugs" : "https://github.com/thgaskell/json-export/issues",
-  "license": "ISC"
+  "bugs": "https://github.com/thgaskell/json-export/issues",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "4.2.0",
+    "mocha": "6.2.0",
+    "sinon-chai": "3.3.0"
+  }
 }
